@@ -15,7 +15,7 @@ email: post@libriotech.no
 description: > # this means to ignore newlines until "baseurl:"
   Libriotech leverer tjenester knyttet til fri programvare for bibliotek, med
   hovedvekt på det frie biblioteksystemet Koha.
-url: "http://libriotech.no" # the base hostname & protocol for your site
+url: "https://libriotech.no" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog
 permalink: "/:year/:month/:day/:title.html"
 twitter_username: libriotech
