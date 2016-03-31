@@ -6,7 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Plugins
-gems: [jekyll-paginate]
+gems:
+ - jekyll-paginate
+ - jekyll-sitemap
 
 # Site settings
 
@@ -27,4 +29,4 @@ paginate_path: "/blog/page:num/"
 
 # Build settings
 
-markdown: kramdown
+markdown: rdiscount
