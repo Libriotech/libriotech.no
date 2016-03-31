@@ -6,16 +6,19 @@ permalink: /koha-demo/
 
 <div style="clear: right; float: right;"><a href="/koha"><img src="/images/logo-koha-web.png" height="104" width="248" alt="Koha logo" title="Koha logo"/></a></div>
 
-* OPAC: <a href="http://demo.bibkat.no/">http://demo.bibkat.no/</a>
+* LibraryName = Lunvik
+* OpacAuthorities = Av
+* EnhancedMessagingPreferences = på
+
+* OPAC: <http://demo.bibkat.no/>
 * Internt: <a href="http://demo-admin.bibkat.no/">http://demo-admin.bibkat.no/</a>
 * Se <a href="#reg">Registrerte brukere</a> nedenfor for påloggingsinformasjon.
 
-<h2>Bibliotek</h2>
+Bibliotek
+---------
 
-<ul>
-<li>Storevik</li>
-<li>Lillevik</li>
-</ul>
+* Storevik
+* Lillevik
 
 <h2>Bibliografiske poster</h2>
 
